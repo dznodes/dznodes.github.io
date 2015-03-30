@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://dznodes.github.io
+title: Joe Dwyer
+tagline: A blog of everyday stuff
+description: My awesome new blog by tinypress.
+paginate: 5
